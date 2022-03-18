@@ -1,0 +1,336 @@
+
+    .button-53 {
+      background-color: #3DD1E7;
+      border: 0 solid #E5E7EB;
+      box-sizing: border-box;
+      color: #634886;
+      display: flex;
+      font-family: ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+      font-size: 1rem;
+      font-weight: 700;
+      justify-content: center;
+      line-height: 1.75rem;
+      padding: .75rem 1.65rem;
+      position: relative;
+      text-align: center;
+      text-decoration: none #000000 solid;
+      text-decoration-thickness: auto;
+      width: 100%;
+      max-width: 460px;
+      position: relative;
+      cursor: pointer;
+      transform: rotate(-2deg);
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    
+    .button-53:focus {
+      outline: 0;
+    }
+    
+    .button-53:after {
+      content: '';
+      position: absolute;
+      border: 1px solid #000000;
+      bottom: 4px;
+      left: 4px;
+      width: calc(100% - 1px);
+      height: calc(100% - 1px);
+    }
+    
+    .button-53:hover:after {
+      bottom: 2px;
+      left: 2px;
+    }
+    
+    @media (min-width: 768px) {
+      .button-53 {
+        padding: .75rem 3rem;
+        font-size: 1.25rem;
+      }
+    }
+    
+    
+    
+
+
+    #plwolf {
+        font-size: 1em;
+        width: 80px;
+        height: 80px;
+        border-radius: 100%;
+        position: absolute;
+        left: 23%;
+        bottom: 6%;
+    
+        align-items: center;
+          background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+          border: 0;
+          border-radius: 8px;
+          box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+          box-sizing: border-box;
+          color: #FFFFFF;
+          display: flex;
+          font-family: Phantomsans, sans-serif;
+          font-size: 20px;
+          justify-content: center;
+          line-height: 1em;
+          max-width: 100%;
+          min-width: 140px;
+          padding: 3px;
+          text-decoration: none;
+          user-select: none;
+          -webkit-user-select: none;
+          touch-action: manipulation;
+          white-space: nowrap;
+          cursor: pointer;
+        
+    }
+
+#wolfhow {
+    font-size: 1em;
+    width: 80px;
+	height: 80px;
+    border-radius: 100%;
+    position: absolute;
+    left: 63%;
+    bottom: 6%;
+
+    align-items: center;
+      background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+      border: 0;
+      border-radius: 8px;
+      box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+      box-sizing: border-box;
+      color: #FFFFFF;
+      display: flex;
+      font-family: Phantomsans, sans-serif;
+      font-size: 20px;
+      justify-content: center;
+      line-height: 1em;
+      max-width: 100%;
+      min-width: 140px;
+      padding: 3px;
+      text-decoration: none;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      white-space: nowrap;
+      cursor: pointer;
+    
+}
+#nft1 {
+    font-size: 1em;
+    width: 80px;
+	height: 80px;
+    border-radius: 100%;
+    position: absolute;
+    left: 73%;
+    bottom: 6%;
+
+    align-items: center;
+      background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+      border: 0;
+      border-radius: 8px;
+      box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+      box-sizing: border-box;
+      color: #FFFFFF;
+      display: flex;
+      font-family: Phantomsans, sans-serif;
+      font-size: 20px;
+      justify-content: center;
+      line-height: 1em;
+      max-width: 100%;
+      min-width: 140px;
+      padding: 3px;
+      text-decoration: none;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      white-space: nowrap;
+      cursor: pointer;
+    
+}
+#wolhaiksong {
+    font-size: 1em;
+    width: 80px;
+	height: 80px;
+    border-radius: 100%;
+    position: absolute;
+    left: 33%;
+    bottom: 6%;
+
+    align-items: center;
+      background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+      border: 0;
+      border-radius: 8px;
+      box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+      box-sizing: border-box;
+      color: #FFFFFF;
+      display: flex;
+      font-family: Phantomsans, sans-serif;
+      font-size: 20px;
+      justify-content: center;
+      line-height: 1em;
+      max-width: 100%;
+      min-width: 140px;
+      padding: 3px;
+      text-decoration: none;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      white-space: nowrap;
+      cursor: pointer;
+    
+}
+#wpt {
+    font-size: 1em;
+    width: 80px;
+	height: 80px;
+    border-radius: 100%;
+    position: absolute;
+    left: 43%;
+    bottom: 6%;
+
+    align-items: center;
+      background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+      border: 0;
+      border-radius: 8px;
+      box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+      box-sizing: border-box;
+      color: #FFFFFF;
+      display: flex;
+      font-family: Phantomsans, sans-serif;
+      font-size: 20px;
+      justify-content: center;
+      line-height: 1em;
+      max-width: 100%;
+      min-width: 140px;
+      padding: 3px;
+      text-decoration: none;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      white-space: nowrap;
+      cursor: pointer;
+    
+}
+#zbrushpluto {
+    font-size: 1em;
+    width: 80px;
+	height: 80px;
+    border-radius: 100%;
+    position: absolute;
+    left: 53%;
+    bottom: 6%;
+
+    align-items: center;
+      background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+      border: 0;
+      border-radius: 8px;
+      box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+      box-sizing: border-box;
+      color: #FFFFFF;
+      display: flex;
+      font-family: Phantomsans, sans-serif;
+      font-size: 20px;
+      justify-content: center;
+      line-height: 1em;
+      max-width: 100%;
+      min-width: 140px;
+      padding: 3px;
+      text-decoration: none;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      white-space: nowrap;
+      cursor: pointer;
+    
+}
+
+
+body{
+    background-color: black;
+    color: rgb(42, 129, 121);
+}
+#gameFrame {
+
+	background-color: black;
+	height: 600px;
+	width: 800px;
+	margin: auto;
+	position: relative;
+	overflow: hidden;
+
+    background-image: url(../imgs/plwolf.png);
+    background-size: cover;
+    background-position: bottom;
+    cursor:  crosshair;
+}
+
+#healthBar {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 20px;
+	width: 100%;
+	background-color: rgb(41, 56, 55);
+	transition: width .5s;
+}
+
+.enemy {
+	
+    bottom: -400px;
+    position: absolute;
+	transition: all .5s;
+
+    width: 180px;
+	height: 180px;
+    border-radius: 100%;
+    background: linear-gradient(#240C2C,black);
+    box-shadow: inset 0 1em 1em rgb(40, 136, 126);
+    overflow: hidden;
+}
+
+.enemy.showing {
+	bottom: 50%;
+}
+
+.enemy.shooting {
+	background: #471515;
+}
+
+
+#enemy1 { left: 5px; }
+#enemy2 { left: 165px; }
+#enemy3 { left: 325px; }
+#enemy4 { left: 485px; }
+#enemy5 { left: 645px; }
+
+#enemy6 { left: 50px; }
+#enemy7 { left: 100px; }
+#enemy8 { left: 250px; }
+#enemy9 { left: 400px; }
+#enemy0 { left: 500px; }
+
+
+.enemy.dead {
+	background: #222;
+	transform: rotate(-90deg);
+    bottom: -140;
+}
+
+button{
+    height: 100%;
+    width: 100%;
+    background-color: cadetblue;
+
+    border: 0;
+    box-shadow: none;
+
+    font-size: 5em;
+    letter-spacing: -2px;
+    opacity: 0.6;
+
+}
