@@ -89,26 +89,26 @@ function newgame() {
 }
 
 function setwolfhow() {
-    document.getElementById("wolfhow").style.backgroundImage = "url(../imgs/wolfhow.jpg)";
-    document.getElementById("gameFrame").style.backgroundImage = "url(../imgs/wolfhow.jpg)";
+    document.getElementById("wolfhow").style.backgroundImage = "url(imgs/wolfhow.jpg)";
+    document.getElementById("gameFrame").style.backgroundImage = "url(imgs/wolfhow.jpg)";
 }
 function setnft1() {
-    document.getElementById("nft1").style.backgroundImage = "url(../imgs/nft1.png)";
-    document.getElementById("gameFrame").style.backgroundImage = "url(../imgs/nft1.png)";
+    document.getElementById("nft1").style.backgroundImage = "url(imgs/nft1.png)";
+    document.getElementById("gameFrame").style.backgroundImage = "url(imgs/nft1.png)";
 }
 function setwolhaiksong() {
-    document.getElementById("wolhaiksong").style.backgroundImage = "url(../imgs/wolhaiksong.png)";
-    document.getElementById("gameFrame").style.backgroundImage = "url(../imgs/wolhaiksong.png)";
+    document.getElementById("wolhaiksong").style.backgroundImage = "url(imgs/wolhaiksong.png)";
+    document.getElementById("gameFrame").style.backgroundImage = "url(imgs/wolhaiksong.png)";
 }
 function setwpt() {
-    document.getElementById("wpt").style.backgroundImage = "url(../imgs/wpturtle1.png)";
-    document.getElementById("gameFrame").style.backgroundImage = "url(../imgs/wpturtle1.png)";
+    document.getElementById("wpt").style.backgroundImage = "url(imgs/wpturtle1.png)";
+    document.getElementById("gameFrame").style.backgroundImage = "url(imgs/wpturtle1.png)";
 }
 function setzbrushpluto() {
-    document.getElementById("zbrushpluto").style.backgroundImage = "url(../imgs/dabi.png)";
-    document.getElementById("gameFrame").style.backgroundImage = "url(../imgs/dabi.png)";
+    document.getElementById("zbrushpluto").style.backgroundImage = "url(imgs/dabi.png)";
+    document.getElementById("gameFrame").style.backgroundImage = "url(imgs/dabi.png)";
 }
 function setplwolf() {
-    document.getElementById("plwolf").style.backgroundImage = "url(../imgs/plwolf.png)";
-    document.getElementById("gameFrame").style.backgroundImage = "url(../imgs/plwolf.png)";
+    document.getElementById("plwolf").style.backgroundImage = "url(imgs/plwolf.png)";
+    document.getElementById("gameFrame").style.backgroundImage = "url(imgs/plwolf.png)";
 }
